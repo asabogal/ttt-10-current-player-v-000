@@ -7,5 +7,3 @@ board.each do |index|
   end
 end
     
-  
-  
